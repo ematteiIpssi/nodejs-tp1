@@ -1,0 +1,27 @@
+[
+  {
+    "nom": "Einstein",
+    "prenom": "Albert",
+    "age": 76
+  },
+  {
+    "nom": "Curie",
+    "prenom": "Marie",
+    "age": 66
+  },
+  {
+    "nom": "Hawking",
+    "prenom": "Stephen",
+    "age": 76
+  },
+  {
+    "nom": "NAthan",
+    "prenom": "laury",
+    "age": 26
+  },
+  {
+    "nom": "EL KHIAT",
+    "prenom": "Anas",
+    "age": 40
+  }
+]
